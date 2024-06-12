@@ -1,0 +1,34 @@
+
+
+ .result-container {
+    background-color: black;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border:5px solid rgb(16, 16, 16);
+    width: 80%;
+    margin:0 auto;
+    height: 50vh;
+    border-radius: 2px;
+    box-shadow: 3px 5px 4px 4px rgb(81, 54, 81);
+    height: 40vh;
+    text-align: center;
+    
+  }
+  
+  .result-score {
+    font-size: 36px;
+    color: aqua;
+    font-weight: bold;
+    margin-bottom: 20px;
+    height: 5vh;
+  }
+  
+  .result-remark {
+    font-size: 24px;
+    color: aqua;
+    margin-bottom: 10px;
+  }
+  
